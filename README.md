@@ -1,2 +1,2 @@
-# Data-Analyst---Agent
+# Data-Analyst-Agent
 Created an Agentic AI for data analysis
